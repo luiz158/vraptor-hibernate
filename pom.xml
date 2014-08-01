@@ -40,13 +40,13 @@
 		<dependency>
 			<groupId>br.com.caelum</groupId>
 			<artifactId>vraptor</artifactId>
-			<version>3.4.2</version>
+			<version>3.5.3</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>br.com.caelum.vraptor</groupId>
 			<artifactId>vraptor-environment</artifactId>
-			<version>1.0.1</version>
+			<version>1.1.4</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
